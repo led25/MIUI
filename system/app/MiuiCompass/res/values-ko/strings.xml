@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">나침반</string>
+    <string name="getting_location">위치 확인 중...</string>
+    <string name="cannot_get_location">현재 위치를 찾을 수 없습니다</string>
+    <string name="location_north">%s 북</string>
+    <string name="location_south">%s 남</string>
+    <string name="location_east">%s 동</string>
+    <string name="location_west">%s 서</string>
+</resources>

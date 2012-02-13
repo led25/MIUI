@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>WIFI 데이터</item>
+        <item>전체 프로그램</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>인터넷</item>
+        <item>파일 탐색기</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>전화번호부</item>
+        <item>통화 목록</item>
+        <item>메세지</item>
+        <item>MMS 메세지</item>
+        <item>시스템 설정</item>
+        <item>WIFI 설정</item>
+        <item>홈 레이아웃</item>
+        <item>알람 설정</item>
+	    <item>노트</item>
+        <item>DND</item>
+	    <item>계정</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>데이터</item>
+        <item>프로그램</item>
+        <item>데이터와 프로그램</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>전화번호부</item>
+        <item>통화 목록</item>
+        <item>메세지</item>
+        <item>WIFI 설정</item>
+        <item>노트</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>전화번호부</item>
+        <item>WIFI 설정</item>
+        <item>노트</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>통화 목록</item>
+        <item>메세지</item>
+    </string-array>
+</resources>

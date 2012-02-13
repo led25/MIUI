@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">인증서 설치</string>
+    <string name="pick_file_title">인증서 선택</string>
+    <string name="pkcs12_password_dialog_title">인증서 추출</string>
+    <string name="extracting_pkcs12">추출...</string>
+    <string name="pkcs12_file_password_dialog_title">%s에서 추출</string>
+    <string name="name_credential_dialog_title">인증서 이름</string>
+    <string name="credential_name">인증서 이름:</string>
+    <string name="credential_password">인증서를 추출하기 위해 비밀 번호를 입력하세요.</string>
+    <string name="credential_info">패키지에는 다음이 포함되어 있습니다:</string>
+    <string name="p12_description">PKCS12 keystore 인증서.</string>
+    <string name="one_userkey">한개의 사용자 키</string>
+    <string name="one_usercrt">한개의 사용자 인증</string>
+    <string name="one_cacrt">한개의 CA 인증서</string>
+    <string name="n_cacrts">%d CA 인증서</string>
+    <string name="password_error">올바른 비밀 번호를 입력하세요.</string>
+    <string name="password_empty_error">비밀 번호를 입력하세요.</string>
+    <string name="name_empty_error">이름을 입력하십시오.</string>
+    <string name="name_char_error">문자와 숫자만 들어있는 이름을 입력하세요.</string>
+    <string name="storage_error">인증서를 저장할 수 없습니다. 다시 시도하려면 확인을 클릭하세요.</string>
+    <string name="unable_to_save_cert">인증서를 저장할 수 없습니다.자격 증명 저장소가 활성화되거나 제대로 초기화하지 않습니다.</string>
+    <string name="cert_not_saved">인증서가 설치되어 있지 않습니다.</string>
+    <string name="no_cert_to_saved">증명서가 없어 설치 할 수 없습니다.</string>
+    <string name="invalid_cert">인증서가 유효하지 않습니다.</string>
+    <string name="cert_is_added">%s 설치.</string>
+    <string name="cert_too_large_error">설치에 실패했습니다. 인증서 크기가 너무 큽니다.</string>
+    <string name="cert_missing_error">설치에 실패했습니다.인증서 파일을 찾을 수 없습니다.</string>
+    <string name="cert_read_error">설치에 실패했습니다.인증서 파일을 읽을 수 없습니다.</string>
+    <string name="no_cert_file_found">USB 저장 장치에 인증서 파일 없음.</string>
+    <string name="sdcard_not_present">USB 저장 장치를 사용할 수 없습니다.</string>
+</resources>

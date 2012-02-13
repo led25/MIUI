@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">캘린더 저장소</string>
+    <string name="upgrade_msg">갤린더 데이터베이스 업그레이드.</string>
+    <string name="calendar_default_name">기본</string>
+    <string name="calendar_info">캘린더 정보</string>
+    <string name="calendar_info_error">오류</string>
+    <string name="calendar_info_no_calendars">일정 없음</string>
+    <string name="calendar_info_events">이벤트: %1$d</string>
+    <string name="calendar_info_events_dirty">이벤트: %1$d, Unsaved: %2$d</string>
+    <string name="provider_label">캘린더</string>
+    <string name="debug_tool_delete_button">지금 삭제</string>
+    <string name="debug_tool_start_button">시작</string>
+    <string name="debug_tool_message">다음과 같이 1) 모든 응용 프로그램에서 읽을 수있는 SD 카드 / USB 저장 장치로 달력 데이터베이스의 복사본을 만들고 2) 그것을 이메일로 보내십시오. 당신이 성공적으로 장치를 복사하거나 이메일을 받은 즉시 그것을 삭제하는 것을 잊지 마십시오.</string>
+    <string name="debug_tool_email_sender_picker">파일을 전송하는 프로그램을 선택하십시오</string>
+    <string name="debug_tool_email_subject">캘린더 DB 첨부</string>
+    <string name="debug_tool_email_body">첨부는 모든 약속 및 개인 정보, 캘린더 데이터베이스입니다. 확인 하십시오.</string>
+</resources>

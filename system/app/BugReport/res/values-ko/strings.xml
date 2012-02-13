@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">사용자 의견</string>
+    <string name="user_feedback">사용자 의견</string>
+    <string name="report_miui">MIUI에 의견 보내기</string>
+    <string name="menu_send">리포트 보내기</string>
+    <string name="menu_preview">리포트 미리보기</string>
+    <string name="section_feedback">피드백</string>
+    <string name="section_privacy">개인 정보</string>
+    <string name="description">설명 (선택)</string>
+    <string name="privacy_system_log">시스템 데이터 포함</string>
+    <string name="privacy_system_log_desc">문제를 보다 효과적으로 진단하기 위해 MIUI와 시스템 데이터를 공유할 수 있습니다.</string>
+    <string name="privacy_screenshot">스크린샷 포함</string>
+    <string name="privacy_screenshot_desc">선택한 화면 보내기</string>
+    <string name="privacy_bugreport">버그 리포트를 포함</string>
+    <string name="privacy_bugreport_desc">자세한 버그 리포트를 (덤프 및 하드웨어 관련 문제) MIUI와 공유할 수 있습니다.</string>
+    <string name="msg_generate_bugreport">버그 리포트 만드는 중 ...</string>
+    <string name="msg_packaging_report">사용자 의견 리포트 만드는 중 ...</string>
+    <string name="info_board">게시판</string>
+    <string name="info_brand">상표</string>
+    <string name="info_buildid">빌드 ID</string>
+    <string name="info_buildtype">빌드 형식</string>
+    <string name="info_codename">암호명</string>
+    <string name="info_device">장치</string>
+    <string name="info_incremental">상위 버전</string>
+    <string name="info_model">모델</string>
+    <string name="info_networkname">네트워크 이름</string>
+    <string name="info_networktype">네트워크 형식</string>
+    <string name="info_phonetype">폰 형식</string>
+    <string name="info_product">제품</string>
+    <string name="info_release">공개</string>
+    <string name="info_timestamp">시간</string>
+    <string name="info_uilanguage">UI 언어</string>
+    <string name="info_runningapp">실행중인 응용 프로그램</string>
+    <string name="info_description">설명</string>
+    <string name="info_systemlog">시스템 로그</string>
+    <string name="info_screenshot">스크린 샷</string>
+    <string name="info_section_feedback">사용자 보고</string>
+    <string name="info_section_network">네트워크</string>
+    <string name="info_section_system">시스템</string>
+    <string name="info_section_screenshot">스크린 샷</string>
+	<string name="toast_description_required">의견 설명은 비워둘 수 없습니다</string>
+	<string name="toast_description_length_too_short">의견 설명은 10자 이상 되어야 합니다</string>
+</resources>

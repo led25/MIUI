@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">트래픽 모니터링</string>
+    <string name="duration" formatted="false">%d년%d월%d일~%d년%d월%d일</string>
+    <string name="auto_turn_off_mobile">자동으로 네트워크트래픽 해제</string>
+    <string name="menu_refresh">새로고침</string>
+    <string name="menu_sort_by_name">이름으로 정렬</string>
+    <string name="menu_sort_by_traffic">사용량을 기준으로 정렬</string>
+    <string name="menu_display_system_app">디스플레이 시스템 APP</string>
+    <string name="menu_not_display_system_app">시스템 APP이 표시되지 않습니다</string>
+    <string name="input_max_traffic">사용할 수있는 트래픽 입력(MB)</string>
+    <string name="input_warning_traffic">경고 트래픽 입력(MB)</string>
+    <string name="max_traffic_monthly">월간 2G/3G 최대 사용 가능한 사용량</string>
+    <string name="monitor_starting_day">모니터링 시작일</string>
+    <string name="date_format">%s일</string>
+    <string name="traffic_none">없음</string>
+    <string name="version_text">버전 %1$s</string>
+    <string name="duration_days" formatted="false">%d천%d소时%d포인트</string>
+    <string name="duration_hours" formatted="false">%d소时%d포인트</string>
+    <string name="duration_minutes">%d포인트</string>
+    <string name="traffic_data">트래픽 모니터링</string>
+    <string name="remain">남은량</string>
+    <string name="threshold">경고</string>
+    <string name="used">사용량</string>
+    <string name="exceed">초과</string>
+    <string name="settings">설정</string>
+    <string name="mobile">2G/3G</string>
+    <string name="wifi">WIFI</string>
+    <string name="mobile_format">2G/3G:%s</string>
+    <string name="wifi_format">WIFI:%s</string>
+    <string name="mobile_traffic">2G/3G사용 가능한 트래픽</string>
+    <string name="network_control">네트워크 스위치 제어</string>
+    <string name="network_monitor">방화벽</string>
+    <string name="all_apps">트래픽 세부 정보를 볼려면 목록을 클릭하십시오</string>
+    <string name="refresh">새로고침</string>
+    <string name="display_system_app">디스플레이 시스템APP</string>
+    <string name="force_stop">실행 종료</string>
+    <string name="app_detail">프로그램 세부 정보</string>
+    <string name="app_detail_control">데이터 제어</string>
+    <string name="loading_apps_list">프로그램의 목록 로드 중, 잠시 기다려주십시오...</string>
+    <string name="apply_rules_failed_known">애플리케이션 방화벽이 실패한것을 알고 있습니까</string>
+    <string name="apply_rules_failed">애플리케이션 방화벽이 실패했습니다. 다시 시도하십시오.</string>
+    <string name="monitor_settings">세부 정보 및 설정</string>
+    <string name="process_kernel_label">Android OS</string>
+    <string name="tether_settings_title_usb">USB 공유 네트워크</string>
+    <string name="tether_settings_title_wifi">와이파이</string>
+    <string name="tether_settings_title_bluetooth">블루투스 공유 네트워크</string>
+    <string name="tether_settings_title_usb_bluetooth">네트워크 공유</string>
+    <string name="tether_settings_title_all">네트워크 공유 및 와이파이</string>
+    <string name="data_usage_uninstalled_apps">응용 프로그램이 삭제되었습니다</string>
+    <string name="data_usage_cycle_editor_subtitle">날짜 :</string>
+    <string name="data_usage_cycle_editor_positive">결정</string>
+    <string name="data_usage_label_foreground">전면 :%s</string>
+    <string name="data_usage_label_background">배경 :%s</string>
+    <string name="data_usage_restrict_background">배경 데이터 제한</string>
+    <string name="data_usage_restrict_background_help">이 응용프로그램에 대한 배경 데이터의 사용을 제한하려면, 모바일 데이터의 상한선을 설정하세요</string>
+    <string name="data_usage_restrict_background_title">배경 데이터 제한</string>
+    <string name="data_usage_restrict_background_summary">모바일 데이터가 배경을 제한한다면, 와이파이 네트워크 또는 응용프로그램과 서비스의 일부가 실행되지 않습니다.</string>
+</resources>

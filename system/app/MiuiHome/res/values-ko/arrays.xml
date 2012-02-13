@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>클래스</item>
+        <item>클래식(탄성 없음)</item>
+        <item>페이지 사라짐</item>
+        <item>풍차</item>
+        <item>페이지</item>
+        <item>쌓기</item>
+        <item>회전</item>
+        <item>3D 큐브</item>
+    </string-array>
+</resources>

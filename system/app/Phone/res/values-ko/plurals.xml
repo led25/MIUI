@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">%s분에 대한 데이터 연결 없음</item>
+        <item quantity="one">%s분에 대한 데이터 연결 없음</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">휴대폰은 %s분 비상 콜백 모드로 설정되어 있습니다. 이 모드에서 데이터 연결을 사용하는 동안 어플리케이션을 사용할 수 없습니다. 지금 종료 하시겠습니까?</item>
+        <item quantity="one">휴대폰은 %s분 비상 콜백 모드로 설정되어 있습니다. 이 모드에서 데이터 연결을 사용하는 동안 어플리케이션을 사용할 수 없습니다. 지금 종료 하시겠습니까?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">선택한 작업은 비상 콜백 모드에서 사용할 수 없습니다. 휴대폰은 %s분의 해당 모드에 있을 것입니다. 지금 종료 하시겠습니까?</item>
+        <item quantity="one">선택한 작업은 비상 콜백 모드에서 사용할 수 없습니다. 휴대폰은 %s분의 해당 모드에 있을 것입니다. 지금 종료 하시겠습니까?</item>
+    </plurals>
+</resources>

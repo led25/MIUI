@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">키 체인</string>
+    <string name="title_no_certs">인증서를 찾을 수 없습니다</string>
+    <string name="title_select_cert">인증서를 선택하십시오</string>
+    <string name="requesting_application">%s 애플리케이션이 인증서를 요청했습니다.인증서를 선택하면 현재 및 미래에 이 ID를 사용할 수있는 능력을 부여합니다.</string>
+    <string name="requesting_server">%s 애플리케이션이 요청하는 서버를 식별하고 있다 하지만 응용 프로그램을 신뢰하는 경우에만 인증서로 애플리케이션 액세스 권한을 부여해야합니다.</string>
+    <string name="install_new_cert_message">당신은 %1$s 또는 외장형 스토리지에 위치한 %2$s의 확장명으로 PKCS # 12 파일에서 인증서를 설치할 수 있습니다</string>
+    <string name="install_new_cert_button_label">설치</string>
+    <string name="allow_button">허용</string>
+    <string name="deny_button">거부</string>
+</resources>

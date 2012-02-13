@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="battery_indicator_style_entries">
+        <item>이미지로 표시</item>
+        <item>퍼센트로 표시</item>
+        <item>알림바에 바로 표시</item>
+    </string-array>
+    <string-array name="battery_indicator_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="usb_connection_mode_entries">
+        <item>연결시마다 물어보기</item>
+        <item>충전만</item>
+        <item>SD카드 사용</item>
+    </string-array>
+    <string-array name="usb_connection_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
